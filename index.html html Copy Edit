@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Digital Aimark Solutions</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Welcome to Digital Aimark Solutions</h1>
+    <p>Your Digital Marketing Partner</p>
+  </header>
+
+  <section>
+    <h2>Our Services</h2>
+    <ul>
+      <li>SEO Optimization</li>
+      <li>Social Media Marketing</li>
+      <li>Website Development</li>
+      <li>Google Ads Management</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact Us</h2>
+    <p>Email: contact@digitalaimarksolutions.com</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Digital Aimark Solutions</p>
+  </footer>
+</body>
+</html>
